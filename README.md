@@ -1,1 +1,2 @@
 # Proyecto
+## Guía de contribución
